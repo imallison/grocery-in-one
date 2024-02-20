@@ -8,3 +8,5 @@
 - In addition, it focuses on reducing the time put into making grocery lists or wandering through stores trying to figure out which items to purchase
 
 ## Next Steps
+- Fix some of the bugs
+- Incorporate a frontend side with interactive parts
